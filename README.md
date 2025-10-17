@@ -54,8 +54,8 @@ The custom oh-my-posh theme displays:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/atriumos.git
-cd atriumos
+git clone https://github.com/ehlvg/atrium.git
+cd atrium
 
 # Run the setup script
 python3 atriumos.py
