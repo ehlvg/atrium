@@ -64,7 +64,7 @@ python3 atriumos.py
 ### One-Line Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/atriumos/main/atriumos.py | python3
+curl -fsSL https://raw.githubusercontent.com/ehlvg/atrium/main/atriumos.py | python3
 ```
 
 ### Prerequisites
@@ -121,7 +121,7 @@ gh repo clone username/repository
 nano ~/.config/atriumos/atriumos-theme.json
 ```
 
-## Screenshots
+## Features
 
 ### System Detection
 The script automatically detects your operating system, architecture, and Python version.
@@ -240,9 +240,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/atriumos/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/atriumos/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/atriumos/wiki)
+- **Issues**: [GitHub Issues](https://github.com/ehlvg/atrium/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ehlvg/atrium/discussions)
+- **Documentation**: [Wiki](https://github.com/ehlvg/atrium/wiki)
 
 ---
 
